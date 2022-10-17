@@ -1,2 +1,1 @@
 # Ionic
-Ionic practice apps
